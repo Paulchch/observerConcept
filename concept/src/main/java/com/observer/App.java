@@ -20,6 +20,7 @@ public class App
         weather.setGrados(19);
         
         weather.setGrados(20);
+        weather.setTiempo("nublado");
 
 
 
